@@ -1,0 +1,31 @@
+{
+  "World": {
+    ".All[Baza].wld": false,
+    "-.All[Baza].wld": false,
+    "-_-_Baza.wld": false,
+    "Katniss_-_###.wld": true,
+    "-_~_Surowcowa01.wld": false,
+    "-_-_Surowcowa02.wld": false,
+    "-_-_Magazyn.wld": false,
+    "Baza.wld": true,
+    "..wld": false,
+    "...._big.wld": false,
+    "....._big2.wld": false,
+    "..._big3.wld": false,
+    "..._big4.wld": false,
+    "expert_small.wld": false,
+    "Expert_Crimcon_Farm.wld": false,
+    "NMS_Baza.wld": false,
+    "zCustom.wld": false,
+    "zCustomMedium.wld": false,
+    "Kat_-_###.wld": false,
+    "Blahblahbal_-_###.wld": false,
+    "Surowcowa_01.wld": false,
+    "Surowcowa_02.wld": false
+  },
+  "Player": {
+    "maslo22.plr": true,
+    "Katniss.plr": false,
+    "Katniss2.plr": true
+  }
+}
